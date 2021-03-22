@@ -1,0 +1,16 @@
+venv
+ovenv
+env
+db.sqlite3
+
+
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+.vscode
+
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
